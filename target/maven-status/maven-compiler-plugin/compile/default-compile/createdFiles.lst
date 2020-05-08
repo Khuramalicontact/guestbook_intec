@@ -1,0 +1,5 @@
+be\kgov\guestbook\model\Message.class
+be\kgov\guestbook\servlet\PostMessage.class
+be\kgov\guestbook\dao\MessageDao.class
+be\kgov\guestbook\dao\MessageDaoImpl.class
+be\kgov\guestbook\servlet\GuestBookServlet.class
