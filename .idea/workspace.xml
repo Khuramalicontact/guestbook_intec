@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d9a76ea-eae8-4fd2-8b90-0a6c63766666" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/kgov/guestbook/servlet/GuestBookServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/kgov/guestbook/servlet/GuestBookServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/kgov/guestbook/servlet/PostMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/kgov/guestbook/servlet/PostMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/guestBookServletExc.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/guestBookServletExc.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,7 @@
       <updated>1588886746003</updated>
       <workItem from="1588886752868" duration="900000" />
       <workItem from="1588895649445" duration="733000" />
-      <workItem from="1588934029475" duration="14997000" />
+      <workItem from="1588934029475" duration="15410000" />
     </task>
     <servers />
   </component>
