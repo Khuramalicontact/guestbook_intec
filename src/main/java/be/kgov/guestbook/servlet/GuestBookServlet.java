@@ -108,4 +108,9 @@ public class GuestBookServlet extends HttpServlet {
             e.printStackTrace();
         }
     }
+
+    @Override
+    public void destroy() {
+        messageDao.closeConnection();
+    }
 }

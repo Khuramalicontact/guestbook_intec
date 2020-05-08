@@ -42,6 +42,7 @@ public class PostMessage extends HttpServlet {
                 "</body>" +
                 "</html>");
         writer.close();
+        resp.sendRedirect(req.getContextPath());
     }
 
     @Override
@@ -57,5 +58,10 @@ public class PostMessage extends HttpServlet {
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
+    }
+
+    @Override
+    public void destroy() {
+        messageDao.closeConnection();
     }
 }
